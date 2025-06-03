@@ -16,11 +16,13 @@
 
 ## 📂 Featured Projects
 
-> ⚠️ _Replace these placeholders with actual project repositories or upload them to GitHub_
 
 ### 📁 [Steel Bridge Design Project](#)
 - Designed a roadway steel bridge following Egyptian Code for Steel Structures.
 - Created shop drawings, performed structural analysis, and proposed cost-saving alternatives.
+### 📁 [Duplex Villa Type A3](#)
+- Moduling , Quantity Surveing & Creating Shop Drawings Using Auto Desk Revit
+- Schedduled Using Primavera P6 & Presented Using Power BI Dashboards
 
 ---
 
