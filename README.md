@@ -1,4 +1,4 @@
-# 👷 Ahmed Yasser — Civil Engineer | Project Planner & Scheduler
+# 👷 Ahmed Yasser — Civil Engineer
 
 🎯 Welcome to my GitHub! I’m a Civil Engineer with a focus on **Construction Management**, **Project Planning**, and **Scheduling**. I specialize in using tools like **Primavera P6**, **AutoCAD**, **Revit**, and **Microsoft Excel** to bring structure, precision, and efficiency to engineering projects. I'm also currently expanding my expertise in **BIM (Building Information Modeling)** and data-driven project control.
 
